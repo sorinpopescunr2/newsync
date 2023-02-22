@@ -4,7 +4,7 @@ type: primary
 components:
     -
         kind: Database
-        name: dbasdasdasd
+        name: db
         gitRepo: 'https://github.com/sorinpopescunr2/demo-eaas.git'
         gitBranch: master
         dockerCompose:
