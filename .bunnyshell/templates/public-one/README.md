@@ -1,4 +1,4 @@
-# private-one t0
+# private-one t0e
 
 ## Getting started
 
