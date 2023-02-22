@@ -1,4 +1,4 @@
-# private-one t0
+# public-one tag t0
 
 ## Getting started
 
