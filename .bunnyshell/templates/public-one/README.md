@@ -1,6 +1,4 @@
-# public-one t0
-
-
+# private-one t0
 
 ## Getting started
 
