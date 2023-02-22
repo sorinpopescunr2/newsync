@@ -8,8 +8,6 @@ tags:
 icons: [ 'nodejs', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express' ]
 stack:
   packages:
-    - name: nodejs
-      version: '1.0.0-alpha+001'
     - name: express
       version: '1.0.0+20130313144700'
     - name: postgres
