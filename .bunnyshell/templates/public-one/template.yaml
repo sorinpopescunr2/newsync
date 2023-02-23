@@ -5,7 +5,7 @@ tags:
    - express
    - react
    - postgres
-icons: [ 'nodejs', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express', 'postgress', 'react', 'express' ]
+icons: [ 'nodejs', 'postgress', 'react', 'express' ]
 stack:
   packages:
     - name: nodejs
